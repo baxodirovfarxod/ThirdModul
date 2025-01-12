@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BookCRUD.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BookCRUD.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookCRUD.DataAccess.dll": {}
+        }
+      },
+      "BookCRUD.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BookCRUD.DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BookCRUD.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookCRUD.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookCRUD.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../MusicCRUD.DataAccess/BookCRUD.DataAccess.csproj",
+      "msbuildProject": "../MusicCRUD.DataAccess/BookCRUD.DataAccess.csproj"
+    },
+    "BookCRUD.Repository/1.0.0": {
+      "type": "project",
+      "path": "../MusicCRUD.Repository/BookCRUD.Repository.csproj",
+      "msbuildProject": "../MusicCRUD.Repository/BookCRUD.Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BookCRUD.Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Service\\BookCRUD.Service.csproj",
+      "projectName": "BookCRUD.Service",
+      "projectPath": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Service\\BookCRUD.Service.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Repository\\BookCRUD.Repository.csproj": {
+              "projectPath": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Repository\\BookCRUD.Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

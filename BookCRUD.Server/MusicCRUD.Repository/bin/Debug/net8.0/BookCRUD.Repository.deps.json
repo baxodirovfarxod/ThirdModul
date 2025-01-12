@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BookCRUD.Repository/1.0.0": {
+        "dependencies": {
+          "BookCRUD.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "BookCRUD.Repository.dll": {}
+        }
+      },
+      "BookCRUD.DataAccess/1.0.0": {
+        "runtime": {
+          "BookCRUD.DataAccess.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookCRUD.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BookCRUD.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

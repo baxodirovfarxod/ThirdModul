@@ -1,0 +1,12 @@
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.DataAccess\bin\Debug\net8.0\BookCRUD.DataAccess.deps.json
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.DataAccess\bin\Debug\net8.0\BookCRUD.DataAccess.dll
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.DataAccess\bin\Debug\net8.0\BookCRUD.DataAccess.pdb
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.DataAccess\obj\Debug\net8.0\BookCRUD.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.DataAccess\obj\Debug\net8.0\BookCRUD.DataAccess.AssemblyInfoInputs.cache
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.DataAccess\obj\Debug\net8.0\BookCRUD.DataAccess.AssemblyInfo.cs
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.DataAccess\obj\Debug\net8.0\BookCRUD.DataAccess.csproj.CoreCompileInputs.cache
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.DataAccess\obj\Debug\net8.0\BookCRUD.DataAccess.sourcelink.json
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.DataAccess\obj\Debug\net8.0\BookCRUD.DataAccess.dll
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.DataAccess\obj\Debug\net8.0\refint\BookCRUD.DataAccess.dll
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.DataAccess\obj\Debug\net8.0\BookCRUD.DataAccess.pdb
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.DataAccess\obj\Debug\net8.0\ref\BookCRUD.DataAccess.dll

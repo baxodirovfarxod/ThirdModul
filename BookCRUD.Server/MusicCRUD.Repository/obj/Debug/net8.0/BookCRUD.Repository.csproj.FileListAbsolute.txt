@@ -1,0 +1,16 @@
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.Repository\bin\Debug\net8.0\BookCRUD.Repository.deps.json
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.Repository\bin\Debug\net8.0\BookCRUD.Repository.dll
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.Repository\bin\Debug\net8.0\BookCRUD.Repository.pdb
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.Repository\bin\Debug\net8.0\BookCRUD.DataAccess.dll
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.Repository\bin\Debug\net8.0\BookCRUD.DataAccess.pdb
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.Repository\obj\Debug\net8.0\BookCRUD.Repository.csproj.AssemblyReference.cache
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.Repository\obj\Debug\net8.0\BookCRUD.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.Repository\obj\Debug\net8.0\BookCRUD.Repository.AssemblyInfoInputs.cache
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.Repository\obj\Debug\net8.0\BookCRUD.Repository.AssemblyInfo.cs
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.Repository\obj\Debug\net8.0\BookCRUD.Repository.csproj.CoreCompileInputs.cache
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.Repository\obj\Debug\net8.0\BookCRUD.Repository.sourcelink.json
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.Repository\obj\Debug\net8.0\BookCRUD.87334CBF.Up2Date
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.Repository\obj\Debug\net8.0\BookCRUD.Repository.dll
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.Repository\obj\Debug\net8.0\refint\BookCRUD.Repository.dll
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.Repository\obj\Debug\net8.0\BookCRUD.Repository.pdb
+D:\C#\ThirdModul\BookCRUD.Server\MusicCRUD.Repository\obj\Debug\net8.0\ref\BookCRUD.Repository.dll

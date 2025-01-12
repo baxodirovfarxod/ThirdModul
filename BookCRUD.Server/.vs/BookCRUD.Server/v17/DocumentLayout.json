@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ThirdModul\\BookCRUD.Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E99F2082-5D30-410E-9BDC-1AA26738EE14}|MusicCRUD.Service\\MusicCRUD.Service.csproj|d:\\c#\\thirdmodul\\bookcrud.server\\musiccrud.service\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99F2082-5D30-410E-9BDC-1AA26738EE14}|MusicCRUD.Service\\MusicCRUD.Service.csproj|solutionrelative:musiccrud.service\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7815B5C-FF89-44AD-B31D-546F974401C7}|MusicCRUD.DataAccess\\MusicCRUD.DataAccess.csproj|d:\\c#\\thirdmodul\\bookcrud.server\\musiccrud.dataaccess\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7815B5C-FF89-44AD-B31D-546F974401C7}|MusicCRUD.DataAccess\\MusicCRUD.DataAccess.csproj|solutionrelative:musiccrud.dataaccess\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99F2082-5D30-410E-9BDC-1AA26738EE14}|MusicCRUD.Service\\MusicCRUD.Service.csproj|d:\\c#\\thirdmodul\\bookcrud.server\\musiccrud.service\\dtos\\bookcreatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99F2082-5D30-410E-9BDC-1AA26738EE14}|MusicCRUD.Service\\MusicCRUD.Service.csproj|solutionrelative:musiccrud.service\\dtos\\bookcreatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99F2082-5D30-410E-9BDC-1AA26738EE14}|MusicCRUD.Service\\MusicCRUD.Service.csproj|d:\\c#\\thirdmodul\\bookcrud.server\\musiccrud.service\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99F2082-5D30-410E-9BDC-1AA26738EE14}|MusicCRUD.Service\\MusicCRUD.Service.csproj|solutionrelative:musiccrud.service\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F3DAFA-D52A-4634-8073-51044614E46F}|BookCRUD\\BookCRUD.Server.csproj|d:\\c#\\thirdmodul\\bookcrud.server\\bookcrud\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F3DAFA-D52A-4634-8073-51044614E46F}|BookCRUD\\BookCRUD.Server.csproj|solutionrelative:bookcrud\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99F2082-5D30-410E-9BDC-1AA26738EE14}|MusicCRUD.Service\\BookCRUD.Service.csproj|d:\\c#\\thirdmodul\\bookcrud.server\\musiccrud.service\\extension\\bookserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99F2082-5D30-410E-9BDC-1AA26738EE14}|MusicCRUD.Service\\BookCRUD.Service.csproj|solutionrelative:musiccrud.service\\extension\\bookserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99F2082-5D30-410E-9BDC-1AA26738EE14}|MusicCRUD.Service\\MusicCRUD.Service.csproj|d:\\c#\\thirdmodul\\bookcrud.server\\musiccrud.service\\service\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99F2082-5D30-410E-9BDC-1AA26738EE14}|MusicCRUD.Service\\MusicCRUD.Service.csproj|solutionrelative:musiccrud.service\\service\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9B22CE-85FB-447F-A8A4-589169AE4A46}|MusicCRUD.Repository\\MusicCRUD.Repository.csproj|d:\\c#\\thirdmodul\\bookcrud.server\\musiccrud.repository\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9B22CE-85FB-447F-A8A4-589169AE4A46}|MusicCRUD.Repository\\MusicCRUD.Repository.csproj|solutionrelative:musiccrud.repository\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9B22CE-85FB-447F-A8A4-589169AE4A46}|MusicCRUD.Repository\\MusicCRUD.Repository.csproj|d:\\c#\\thirdmodul\\bookcrud.server\\musiccrud.repository\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9B22CE-85FB-447F-A8A4-589169AE4A46}|MusicCRUD.Repository\\MusicCRUD.Repository.csproj|solutionrelative:musiccrud.repository\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\C#\\ThirdModul\\BookCRUD.Server\\BookCRUD\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookCRUD\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\C#\\ThirdModul\\BookCRUD.Server\\BookCRUD\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookCRUD\\Controllers\\BookController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswGUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T08:22:06.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Service\\Service\\BookService.cs",
+              "RelativeDocumentMoniker": "MusicCRUD.Service\\Service\\BookService.cs",
+              "ToolTip": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Service\\Service\\BookService.cs",
+              "RelativeToolTip": "MusicCRUD.Service\\Service\\BookService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAIA3wFwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:32:42.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookServiceExtension.cs",
+              "DocumentMoniker": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Service\\Extension\\BookServiceExtension.cs",
+              "RelativeDocumentMoniker": "MusicCRUD.Service\\Extension\\BookServiceExtension.cs",
+              "ToolTip": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Service\\Extension\\BookServiceExtension.cs",
+              "RelativeToolTip": "MusicCRUD.Service\\Extension\\BookServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T08:16:44.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Service\\Service\\IBookService.cs",
+              "RelativeDocumentMoniker": "MusicCRUD.Service\\Service\\IBookService.cs",
+              "ToolTip": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Service\\Service\\IBookService.cs",
+              "RelativeToolTip": "MusicCRUD.Service\\Service\\IBookService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:34:14.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookCreatDto.cs",
+              "DocumentMoniker": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Service\\DTOs\\BookCreatDto.cs",
+              "RelativeDocumentMoniker": "MusicCRUD.Service\\DTOs\\BookCreatDto.cs",
+              "ToolTip": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Service\\DTOs\\BookCreatDto.cs",
+              "RelativeToolTip": "MusicCRUD.Service\\DTOs\\BookCreatDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:31:16.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Service\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "MusicCRUD.Service\\DTOs\\BookDto.cs",
+              "ToolTip": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Service\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "MusicCRUD.Service\\DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:30:48.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Repository\\Repository\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "MusicCRUD.Repository\\Repository\\IBookRepository.cs",
+              "ToolTip": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Repository\\Repository\\IBookRepository.cs",
+              "RelativeToolTip": "MusicCRUD.Repository\\Repository\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:09:16.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Repository\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "MusicCRUD.Repository\\Repository\\BookRepository.cs",
+              "ToolTip": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.Repository\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "MusicCRUD.Repository\\Repository\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:08:47.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.DataAccess\\Entity\\Book.cs",
+              "RelativeDocumentMoniker": "MusicCRUD.DataAccess\\Entity\\Book.cs",
+              "ToolTip": "D:\\C#\\ThirdModul\\BookCRUD.Server\\MusicCRUD.DataAccess\\Entity\\Book.cs",
+              "RelativeToolTip": "MusicCRUD.DataAccess\\Entity\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T07:06:17.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

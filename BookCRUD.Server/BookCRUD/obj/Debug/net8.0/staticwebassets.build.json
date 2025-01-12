@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PD1gzEuypEoGTvhZXSiFxwjfHzo5mDUS8Mxa7IicMqI=",
+  "Source": "BookCRUD.Server",
+  "BasePath": "_content/BookCRUD.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

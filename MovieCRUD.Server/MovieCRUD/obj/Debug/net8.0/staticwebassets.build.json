@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "32DPVrOxY+uYOOvpDgvANtgTNN6/KaGtvxHyGWJDfrM=",
+  "Source": "MovieCRUD.Server",
+  "BasePath": "_content/MovieCRUD.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

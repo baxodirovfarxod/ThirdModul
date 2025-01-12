@@ -1,0 +1,12 @@
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.DataAccess\bin\Debug\net8.0\MovieCRUD.DataAccess.deps.json
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.DataAccess\bin\Debug\net8.0\MovieCRUD.DataAccess.dll
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.DataAccess\bin\Debug\net8.0\MovieCRUD.DataAccess.pdb
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.DataAccess\obj\Debug\net8.0\MovieCRUD.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.DataAccess\obj\Debug\net8.0\MovieCRUD.DataAccess.AssemblyInfoInputs.cache
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.DataAccess\obj\Debug\net8.0\MovieCRUD.DataAccess.AssemblyInfo.cs
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.DataAccess\obj\Debug\net8.0\MovieCRUD.DataAccess.csproj.CoreCompileInputs.cache
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.DataAccess\obj\Debug\net8.0\MovieCRUD.DataAccess.sourcelink.json
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.DataAccess\obj\Debug\net8.0\MovieCRUD.DataAccess.dll
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.DataAccess\obj\Debug\net8.0\refint\MovieCRUD.DataAccess.dll
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.DataAccess\obj\Debug\net8.0\MovieCRUD.DataAccess.pdb
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.DataAccess\obj\Debug\net8.0\ref\MovieCRUD.DataAccess.dll

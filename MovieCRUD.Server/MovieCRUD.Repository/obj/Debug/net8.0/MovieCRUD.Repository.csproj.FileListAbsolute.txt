@@ -1,0 +1,16 @@
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.Repository\bin\Debug\net8.0\MovieCRUD.Repository.deps.json
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.Repository\bin\Debug\net8.0\MovieCRUD.Repository.dll
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.Repository\bin\Debug\net8.0\MovieCRUD.Repository.pdb
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.Repository\bin\Debug\net8.0\MovieCRUD.DataAccess.dll
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.Repository\bin\Debug\net8.0\MovieCRUD.DataAccess.pdb
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.Repository\obj\Debug\net8.0\MovieCRUD.Repository.csproj.AssemblyReference.cache
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.Repository\obj\Debug\net8.0\MovieCRUD.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.Repository\obj\Debug\net8.0\MovieCRUD.Repository.AssemblyInfoInputs.cache
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.Repository\obj\Debug\net8.0\MovieCRUD.Repository.AssemblyInfo.cs
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.Repository\obj\Debug\net8.0\MovieCRUD.Repository.csproj.CoreCompileInputs.cache
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.Repository\obj\Debug\net8.0\MovieCRUD.Repository.sourcelink.json
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.Repository\obj\Debug\net8.0\MovieCRU.3C8A1A40.Up2Date
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.Repository\obj\Debug\net8.0\MovieCRUD.Repository.dll
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.Repository\obj\Debug\net8.0\refint\MovieCRUD.Repository.dll
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.Repository\obj\Debug\net8.0\MovieCRUD.Repository.pdb
+D:\C#\ThirdModul\MovieCRUD.Server\MovieCRUD.Repository\obj\Debug\net8.0\ref\MovieCRUD.Repository.dll

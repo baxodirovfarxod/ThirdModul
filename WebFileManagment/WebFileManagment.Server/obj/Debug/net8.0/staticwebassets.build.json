@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UvTPFguQ+NNqIFPSdM4uPYrpG1ndaS27ERjkXUbtsOE=",
+  "Source": "WebFileManagment.Server",
+  "BasePath": "_content/WebFileManagment.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

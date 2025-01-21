@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ThirdModul\\WebFileManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\client_secret_564244058354-kqd05dtmpk2n0hqr0pjbvrspa6ghqjur.apps.googleusercontent.com.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0858B4E3-6BF4-4D88-8303-8EAA76607210}|WebFileManagment.Server\\WebFileManagment.Server.csproj|d:\\c#\\thirdmodul\\webfilemanagment\\webfilemanagment.server\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0858B4E3-6BF4-4D88-8303-8EAA76607210}|WebFileManagment.Server\\WebFileManagment.Server.csproj|solutionrelative:webfilemanagment.server\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0858B4E3-6BF4-4D88-8303-8EAA76607210}|WebFileManagment.Server\\WebFileManagment.Server.csproj|d:\\c#\\thirdmodul\\webfilemanagment\\webfilemanagment.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0858B4E3-6BF4-4D88-8303-8EAA76607210}|WebFileManagment.Server\\WebFileManagment.Server.csproj|solutionrelative:webfilemanagment.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CC9420-57B1-46E6-B78C-44D0D5FD64D2}|WebFileManagment.Service\\WebFileManagment.Service.csproj|d:\\c#\\thirdmodul\\webfilemanagment\\webfilemanagment.service\\service\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CC9420-57B1-46E6-B78C-44D0D5FD64D2}|WebFileManagment.Service\\WebFileManagment.Service.csproj|solutionrelative:webfilemanagment.service\\service\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CC9420-57B1-46E6-B78C-44D0D5FD64D2}|WebFileManagment.Service\\WebFileManagment.Service.csproj|d:\\c#\\thirdmodul\\webfilemanagment\\webfilemanagment.service\\service\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CC9420-57B1-46E6-B78C-44D0D5FD64D2}|WebFileManagment.Service\\WebFileManagment.Service.csproj|solutionrelative:webfilemanagment.service\\service\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85DAEA7-9DAC-46AB-82FD-DE0D3CCA56C1}|WebFileManagment.StorageBroker\\WebFileManagment.StorageBroker.csproj|d:\\c#\\thirdmodul\\webfilemanagment\\webfilemanagment.storagebroker\\service\\istoragebrokerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85DAEA7-9DAC-46AB-82FD-DE0D3CCA56C1}|WebFileManagment.StorageBroker\\WebFileManagment.StorageBroker.csproj|solutionrelative:webfilemanagment.storagebroker\\service\\istoragebrokerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85DAEA7-9DAC-46AB-82FD-DE0D3CCA56C1}|WebFileManagment.StorageBroker\\WebFileManagment.StorageBroker.csproj|d:\\c#\\thirdmodul\\webfilemanagment\\webfilemanagment.storagebroker\\service\\localstoragebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85DAEA7-9DAC-46AB-82FD-DE0D3CCA56C1}|WebFileManagment.StorageBroker\\WebFileManagment.StorageBroker.csproj|solutionrelative:webfilemanagment.storagebroker\\service\\localstoragebroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 472,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client_secret_564244058354-kqd05dtmpk2n0hqr0pjbvrspa6ghqjur.apps.googleusercontent.com.json",
+              "DocumentMoniker": "D:\\client_secret_564244058354-kqd05dtmpk2n0hqr0pjbvrspa6ghqjur.apps.googleusercontent.com.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\client_secret_564244058354-kqd05dtmpk2n0hqr0pjbvrspa6ghqjur.apps.googleusercontent.com.json",
+              "ToolTip": "D:\\client_secret_564244058354-kqd05dtmpk2n0hqr0pjbvrspa6ghqjur.apps.googleusercontent.com.json",
+              "RelativeToolTip": "..\\..\\..\\client_secret_564244058354-kqd05dtmpk2n0hqr0pjbvrspa6ghqjur.apps.googleusercontent.com.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T16:35:16.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\ThirdModul\\WebFileManagment\\WebFileManagment.Server\\Program.cs",
+              "RelativeDocumentMoniker": "WebFileManagment.Server\\Program.cs",
+              "ToolTip": "D:\\C#\\ThirdModul\\WebFileManagment\\WebFileManagment.Server\\Program.cs",
+              "RelativeToolTip": "WebFileManagment.Server\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:44:32.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StorageController.cs",
+              "DocumentMoniker": "D:\\C#\\ThirdModul\\WebFileManagment\\WebFileManagment.Server\\Controllers\\StorageController.cs",
+              "RelativeDocumentMoniker": "WebFileManagment.Server\\Controllers\\StorageController.cs",
+              "ToolTip": "D:\\C#\\ThirdModul\\WebFileManagment\\WebFileManagment.Server\\Controllers\\StorageController.cs",
+              "RelativeToolTip": "WebFileManagment.Server\\Controllers\\StorageController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:26:22.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StorageService.cs",
+              "DocumentMoniker": "D:\\C#\\ThirdModul\\WebFileManagment\\WebFileManagment.Service\\Service\\StorageService.cs",
+              "RelativeDocumentMoniker": "WebFileManagment.Service\\Service\\StorageService.cs",
+              "ToolTip": "D:\\C#\\ThirdModul\\WebFileManagment\\WebFileManagment.Service\\Service\\StorageService.cs",
+              "RelativeToolTip": "WebFileManagment.Service\\Service\\StorageService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:23:38.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStorageService.cs",
+              "DocumentMoniker": "D:\\C#\\ThirdModul\\WebFileManagment\\WebFileManagment.Service\\Service\\IStorageService.cs",
+              "RelativeDocumentMoniker": "WebFileManagment.Service\\Service\\IStorageService.cs",
+              "ToolTip": "D:\\C#\\ThirdModul\\WebFileManagment\\WebFileManagment.Service\\Service\\IStorageService.cs",
+              "RelativeToolTip": "WebFileManagment.Service\\Service\\IStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:22:47.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocalStorageBroker.cs",
+              "DocumentMoniker": "D:\\C#\\ThirdModul\\WebFileManagment\\WebFileManagment.StorageBroker\\Service\\LocalStorageBroker.cs",
+              "RelativeDocumentMoniker": "WebFileManagment.StorageBroker\\Service\\LocalStorageBroker.cs",
+              "ToolTip": "D:\\C#\\ThirdModul\\WebFileManagment\\WebFileManagment.StorageBroker\\Service\\LocalStorageBroker.cs",
+              "RelativeToolTip": "WebFileManagment.StorageBroker\\Service\\LocalStorageBroker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:59:24.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStorageBrokerService.cs",
+              "DocumentMoniker": "D:\\C#\\ThirdModul\\WebFileManagment\\WebFileManagment.StorageBroker\\Service\\IStorageBrokerService.cs",
+              "RelativeDocumentMoniker": "WebFileManagment.StorageBroker\\Service\\IStorageBrokerService.cs",
+              "ToolTip": "D:\\C#\\ThirdModul\\WebFileManagment\\WebFileManagment.StorageBroker\\Service\\IStorageBrokerService.cs",
+              "RelativeToolTip": "WebFileManagment.StorageBroker\\Service\\IStorageBrokerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:58:30.233Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 390,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

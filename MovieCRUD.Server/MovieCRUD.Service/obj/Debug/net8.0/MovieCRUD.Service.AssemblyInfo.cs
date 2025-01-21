@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovieCRUD.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd52a34a7b860d602fc006379fb5bc18785f9ddd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1ee351736795493b471c740987da0c1631c321b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovieCRUD.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovieCRUD.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

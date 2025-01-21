@@ -1,0 +1,12 @@
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.StorageBroker\bin\Debug\net8.0\WebFileManagment.StorageBroker.deps.json
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.StorageBroker\bin\Debug\net8.0\WebFileManagment.StorageBroker.dll
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.StorageBroker\bin\Debug\net8.0\WebFileManagment.StorageBroker.pdb
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.StorageBroker\obj\Debug\net8.0\WebFileManagment.StorageBroker.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.StorageBroker\obj\Debug\net8.0\WebFileManagment.StorageBroker.AssemblyInfoInputs.cache
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.StorageBroker\obj\Debug\net8.0\WebFileManagment.StorageBroker.AssemblyInfo.cs
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.StorageBroker\obj\Debug\net8.0\WebFileManagment.StorageBroker.csproj.CoreCompileInputs.cache
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.StorageBroker\obj\Debug\net8.0\WebFileManagment.StorageBroker.sourcelink.json
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.StorageBroker\obj\Debug\net8.0\WebFileManagment.StorageBroker.dll
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.StorageBroker\obj\Debug\net8.0\refint\WebFileManagment.StorageBroker.dll
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.StorageBroker\obj\Debug\net8.0\WebFileManagment.StorageBroker.pdb
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.StorageBroker\obj\Debug\net8.0\ref\WebFileManagment.StorageBroker.dll

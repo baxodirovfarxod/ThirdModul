@@ -1,0 +1,16 @@
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.Service\bin\Debug\net8.0\WebFileManagment.Service.deps.json
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.Service\bin\Debug\net8.0\WebFileManagment.Service.dll
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.Service\bin\Debug\net8.0\WebFileManagment.Service.pdb
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.Service\bin\Debug\net8.0\WebFileManagment.StorageBroker.dll
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.Service\bin\Debug\net8.0\WebFileManagment.StorageBroker.pdb
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.Service\obj\Debug\net8.0\WebFileManagment.Service.csproj.AssemblyReference.cache
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.Service\obj\Debug\net8.0\WebFileManagment.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.Service\obj\Debug\net8.0\WebFileManagment.Service.AssemblyInfoInputs.cache
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.Service\obj\Debug\net8.0\WebFileManagment.Service.AssemblyInfo.cs
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.Service\obj\Debug\net8.0\WebFileManagment.Service.csproj.CoreCompileInputs.cache
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.Service\obj\Debug\net8.0\WebFileManagment.Service.sourcelink.json
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.Service\obj\Debug\net8.0\WebFileM.6F45430F.Up2Date
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.Service\obj\Debug\net8.0\WebFileManagment.Service.dll
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.Service\obj\Debug\net8.0\refint\WebFileManagment.Service.dll
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.Service\obj\Debug\net8.0\WebFileManagment.Service.pdb
+D:\C#\ThirdModul\WebFileManagment\WebFileManagment.Service\obj\Debug\net8.0\ref\WebFileManagment.Service.dll

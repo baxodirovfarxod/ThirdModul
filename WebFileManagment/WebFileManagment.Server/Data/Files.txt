@@ -1,0 +1,134 @@
+File
+File bu static class. 
+File ning maqsadi - fayllarni boshqarish va ularga tez va samarali kirish
+File ni qachon ishlatamiz: Oddiy va tez fayl operatsiyalari uchun (masalan, faylni o'qish, yozish, nusxalash).
+File class yordamida biz sodda operatsiyalarni tez bajara olamz:
+1. Fayl yaratish
+2. Fayldan o‘qish
+3. Faylga yozish
+4. Faylni o‘chirish
+5. Fayl mavjudligini tekshirish 
+
+
+
+FileInfo
+FileInfo bu non - static yani concret class
+FileInfo ishlatishdan maqsad - bita faylni ko'p ishlatsak yani bitta obyektni ko'p ishlatsak bundan foydalanamiz
+FileInfo bu konkret bita obyekt 
+
+streamWriter - bu faylga bir yo'lakdir va u orqali malumotlarni yozadi, oladi, o'zgartiradi va h.k.
+Uni fileInfo.Append() meto'di orqali ochamz va barcha kerakli ishlarni bajarb bo'lgach streamWriter.Close()
+meto'di orqali bu yo'lakni yopb ketamz, Agar uni yopmasangiz, boshqa dastur yoki jarayon o'sha 
+fayl bilan ishlay olmaydi va bu xatolikka olib kelishi mumkin.
+StreamWtriter faqatgina streamWriter.Close() orqali emas boshqa yo'llar orqali
+xam ochish yani yaratish mumkin.
+
+### **FileInfo xususiyatlari(propirtiy) va ularning vazifalari**:
+
+1. **`Name`**  
+   - Nima saqlaydi: Fayl nomini (kengaytmasi bilan birga).  
+   - Misol: `"example.txt"`  
+
+   FileInfo fileInfo = new FileInfo("C:\\example.txt");
+   Console.WriteLine(fileInfo.Name); // Natija: example.txt
+   
+---
+
+2. **`Extension`**  
+   - Nima saqlaydi: Fayl kengaytmasini (masalan, `.txt`, `.jpg`).  
+   - Misol: `".txt"`
+
+   
+   Console.WriteLine(fileInfo.Extension); // Natija: .txt
+   
+---
+
+3. **`FullName`**  
+   - Nima saqlaydi: Faylning to‘liq yo‘lini (path).  
+   - Misol: `"C:\\example.txt"`
+
+   
+   Console.WriteLine(fileInfo.FullName); // Natija: C:\example.txt
+   
+---
+
+4. **`DirectoryName`**  
+   - Nima saqlaydi: Fayl joylashgan papkaning to‘liq yo‘lini.  
+   - Misol: `"C:\\"`
+
+   
+   Console.WriteLine(fileInfo.DirectoryName); // Natija: C:\
+   
+---
+
+5. **`Directory`**  
+   - Nima saqlaydi: Fayl joylashgan katalogning **`DirectoryInfo`** obyektini.  
+   - Misol: Katalog bilan ishlash imkonini beradi.
+
+   
+   Console.WriteLine(fileInfo.Directory); // Natija: System.IO.DirectoryInfo
+
+---
+
+6. **`Length`**  
+   - Nima saqlaydi: Fayl hajmini (baytlarda).  
+   - Misol: `1024` (1 KB fayl uchun).  
+
+   
+   Console.WriteLine(fileInfo.Length); // Natija: Fayl hajmi (bayt).
+   
+---
+
+7. **`CreationTime`**  
+   - Nima saqlaydi: Fayl yaratilgan vaqt.  
+   - Misol: `"2025-01-15 10:30:00"`
+
+   
+   Console.WriteLine(fileInfo.CreationTime); // Natija: Yaratilgan vaqti.
+   
+---
+
+8. **`LastAccessTime`**  
+   - Nima saqlaydi: Faylga oxirgi marta kirilgan vaqt.  
+   - Misol: `"2025-01-15 12:00:00"`
+
+   
+   Console.WriteLine(fileInfo.LastAccessTime); // Natija: Oxirgi kirilgan vaqti.
+   
+---
+
+9. **`LastWriteTime`**  
+   - Nima saqlaydi: Faylga oxirgi yozilgan vaqt.  
+   - Misol: `"2025-01-15 14:00:00"`
+
+   
+   Console.WriteLine(fileInfo.LastWriteTime); // Natija: Oxirgi yozilgan vaqti.
+   
+---
+
+10. **`IsReadOnly`**  
+    - Nima saqlaydi: Faylning faqat o‘qish uchun ekanligini ko‘rsatadi (bool: `true` yoki `false`).  
+    - Misol: `true` (agar fayl faqat o‘qish uchun bo‘lsa).  
+
+    
+    Console.WriteLine(fileInfo.IsReadOnly); // Natija: true yoki false.
+    
+---
+
+11. **`Attributes`**
+    - Nima saqlaydi: Faylning atributlarini (masalan, yashirin, faqat o‘qiladigan).  
+    - Misol: `FileAttributes.Hidden` yoki `FileAttributes.ReadOnly`.
+
+    Console.WriteLine(fileInfo.Attributes); // Natija: Fayl atributlari..  
+
+---
+
+12. **`CreationTimeUtc`**  
+   - Nima saqlaydi: Faylning yaratilgan vaqtini UTC (Universal Time Coordinated) formatida.  
+   - Misol: `"2025-01-15 05:30:00"` (UTC vaqti).  
+
+   FileInfo fileInfo = new FileInfo("C:\\example.txt");
+   Console.WriteLine(fileInfo.CreationTimeUtc); // Natija: 2025-01-15 05:30:00  
+  
+Directory
+Directory dan papkalar yani folders bilan ishlashda foydalanamiz.

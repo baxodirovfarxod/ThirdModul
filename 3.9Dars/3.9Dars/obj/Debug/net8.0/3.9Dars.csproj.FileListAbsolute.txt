@@ -1,0 +1,15 @@
+D:\C#\ThirdModul\3.9Dars\3.9Dars\bin\Debug\net8.0\3.9Dars.exe
+D:\C#\ThirdModul\3.9Dars\3.9Dars\bin\Debug\net8.0\3.9Dars.deps.json
+D:\C#\ThirdModul\3.9Dars\3.9Dars\bin\Debug\net8.0\3.9Dars.runtimeconfig.json
+D:\C#\ThirdModul\3.9Dars\3.9Dars\bin\Debug\net8.0\3.9Dars.dll
+D:\C#\ThirdModul\3.9Dars\3.9Dars\bin\Debug\net8.0\3.9Dars.pdb
+D:\C#\ThirdModul\3.9Dars\3.9Dars\obj\Debug\net8.0\3.9Dars.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ThirdModul\3.9Dars\3.9Dars\obj\Debug\net8.0\3.9Dars.AssemblyInfoInputs.cache
+D:\C#\ThirdModul\3.9Dars\3.9Dars\obj\Debug\net8.0\3.9Dars.AssemblyInfo.cs
+D:\C#\ThirdModul\3.9Dars\3.9Dars\obj\Debug\net8.0\3.9Dars.csproj.CoreCompileInputs.cache
+D:\C#\ThirdModul\3.9Dars\3.9Dars\obj\Debug\net8.0\3.9Dars.sourcelink.json
+D:\C#\ThirdModul\3.9Dars\3.9Dars\obj\Debug\net8.0\3.9Dars.dll
+D:\C#\ThirdModul\3.9Dars\3.9Dars\obj\Debug\net8.0\refint\3.9Dars.dll
+D:\C#\ThirdModul\3.9Dars\3.9Dars\obj\Debug\net8.0\3.9Dars.pdb
+D:\C#\ThirdModul\3.9Dars\3.9Dars\obj\Debug\net8.0\3.9Dars.genruntimeconfig.cache
+D:\C#\ThirdModul\3.9Dars\3.9Dars\obj\Debug\net8.0\ref\3.9Dars.dll
